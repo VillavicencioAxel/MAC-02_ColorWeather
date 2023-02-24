@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "46ED0EDE-0D15-47F1-9C54-216AE2F11D0F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E74DED3-2973-4F89-87F5-6B086247C2CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorWeather/CurrentWearthearViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "CurrentWeatherViewModel"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AF10491-BAAB-4A9D-A73C-EA6414ADC083"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorWeather/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3AF10491-BAAB-4A9D-A73C-EA6414ADC083 - 92a9df6f6f1d9ead"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.currentPrecidipitationLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "3AF10491-BAAB-4A9D-A73C-EA6414ADC083 - 63fb51dab7733ab9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.currentPrecidipitationLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "3AF10491-BAAB-4A9D-A73C-EA6414ADC083 - 7d8e60a80bdf27a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.currentPrecidipitationLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "3AF10491-BAAB-4A9D-A73C-EA6414ADC083 - d762a91c615042d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.currentPrecidipitationLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "3AF10491-BAAB-4A9D-A73C-EA6414ADC083 - 52d0c126b3dfc58f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ColorWeather.ViewController"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "3AF10491-BAAB-4A9D-A73C-EA6414ADC083 - a3d41f1c3cd9a119"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ColorWeather.ViewController&gt;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14CBF84E-6551-4CC6-B89A-FFA423423E5B"
+            shouldBeEnabled = "No"
+            condition = "|"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorWeather/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "14CBF84E-6551-4CC6-B89A-FFA423423E5B - 27368c6fa0f3373a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.currentWeatherIcon.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "14CBF84E-6551-4CC6-B89A-FFA423423E5B - bf56d49e15315b0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.currentWeatherIcon.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "14CBF84E-6551-4CC6-B89A-FFA423423E5B - 574ae5ffbbae923f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.currentWeatherIcon.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "14CBF84E-6551-4CC6-B89A-FFA423423E5B - 2d3efa1eb18835ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.currentWeatherIcon.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "14CBF84E-6551-4CC6-B89A-FFA423423E5B - 52d0c126b3dffa22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ColorWeather.ViewController"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "14CBF84E-6551-4CC6-B89A-FFA423423E5B - a3d41f1c3cd99eb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ColorWeather.ViewController&gt;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B21B3FE-0916-4A1B-86FC-445E9CDCF508"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorWeather/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C6CA40C-25DA-4576-9F1A-E4BB8B13B6DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorWeather/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB66413D-0ED3-4633-B3AD-AED3E0787DFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorWeather/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9824FC71-DFB5-43D0-96EE-B6BB826F70EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorWeather/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5AAB049-DAD8-47D1-A9A8-3B4A0421BDC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorWeather/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F623F41E-35F5-49B3-83EE-32CEB9A1B936"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ColorWeather/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F623F41E-35F5-49B3-83EE-32CEB9A1B936 - 8db98c5c71ec984a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.currentSummaryLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F623F41E-35F5-49B3-83EE-32CEB9A1B936 - 1b9b22d146022456"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.currentSummaryLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "F623F41E-35F5-49B3-83EE-32CEB9A1B936 - 5c8937cc7d9e2147"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.currentSummaryLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F623F41E-35F5-49B3-83EE-32CEB9A1B936 - a1f9656c0158954"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.currentSummaryLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "F623F41E-35F5-49B3-83EE-32CEB9A1B936 - 52d0c126b3dfc5ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ColorWeather.ViewController"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "F623F41E-35F5-49B3-83EE-32CEB9A1B936 - a3d41f1c3cd9a138"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ColorWeather.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ColorWeather.ViewController&gt;"
+                  moduleName = "ColorWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cvillavv/Desktop/Proyectos/ColorWeather/ColorWeather/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
